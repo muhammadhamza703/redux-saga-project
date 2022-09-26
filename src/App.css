@@ -58,6 +58,44 @@
  padding: 20px;
 }
 
+/* Cart Page Css */
+.cart-page-container{
+  display: flex;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.cart-page-container table{
+  flex:65%;
+  border-collapse: collapse;
+}
+
+.cart-page-container table td{
+  border: 1px solid #ccc;
+  padding:15px;
+}
+
+.price-details{
+  flex:65%;
+  margin: 0px 30px
+
+}
+
+.price-details .adjust-price{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+
+}
+
+.price-details .adjust-price span{
+  font: 20px;
+
+}
+
+/* end Cart Page Css */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
