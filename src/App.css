@@ -18,6 +18,12 @@
   height:100px;
 }
 
+.logo{
+  float:left;
+  margin:0;
+  padding:20px;
+}
+
 .cart-div{
   float:right;
   margin: 25px;
