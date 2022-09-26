@@ -1,0 +1,113 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "iPhone 13 Pro Max",
+            "price": 320000,
+            "color": "Black",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13",
+            "price": 250000,
+            "color": "Sierra Blue",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 3,
+            "name": "iPhone 13 Mini",
+            "price": 100000,
+            "color": "Red",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 4,
+            "name": "iPhone 12 Pro Max",
+            "price": 210000,
+            "color": "Green",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 5,
+            "name": "iPhone 11 Pro",
+            "price": 115000,
+            "color": "Red",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 6,
+            "name": "iPhone 11",
+            "price": 100000,
+            "color": "Gold",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 7,
+            "name": "iPhone X Max",
+            "price": 125000,
+            "color": "Rose Pink",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 8,
+            "name": "iPhone XS Max",
+            "price": 120000,
+            "color": "Rose Gold",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 9,
+            "name": "iPhone 8",
+            "price": 85000,
+            "color": "Green",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 10,
+            "name": "iPhone 8 Plus",
+            "price": 99500,
+            "color": "Black",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 11,
+            "name": "iPhone 7 Plus",
+            "price": 68500,
+            "color": "Gold",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        },
+        {
+            "id": 12,
+            "name": "iPhone 6 Plus",
+            "price": 55500,
+            "color": "Red",
+            "category": "Mobile",
+            "brand": "Apple",
+            "photo": "https://media.istockphoto.com/photos/apple-iphone-11-product-red-on-a-white-background-picture-id1187680562?k=20&m=1187680562&s=170667a&w=0&h=cvC15g1AERQPMtOy59V57RoHVN-Sb0p0YgX35Rz8MGo="
+        }
+
+    ]
+}
