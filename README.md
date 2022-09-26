@@ -1,10 +1,10 @@
-#Netlify Hosted Link
-
-Open [https://iridescent-sprite-9be4a1.netlify.app](Live URL) to view it in your browser.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Netlify Hosted Link
+
+Open [https://iridescent-sprite-9be4a1.netlify.app](Live URL) to view it in your browser.
 
 ## Available Scripts
 
